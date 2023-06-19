@@ -1,0 +1,302 @@
+[
+    {
+        "question_id":1,
+        "question":"Which mammal is known to have the most powerful bite in the world?",
+        "option_A":"Wrong",
+        "option_B":"Hippopotamus",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Animal",
+        "value":200
+    },
+    {
+        "question_id":2,
+        "question":"What object does a male penguin often gift to a female penguin to win her over?",
+        "option_A":"A pebble",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Animal",
+        "value":400
+    },
+    {
+        "question_id":3,
+        "question":"How long is an elephant pregnant before it gives birth?",
+        "option_A":"Wrong",
+        "option_B":"Wrong",
+        "option_C":"22 Months",
+        "answer":"C",
+        "category":"Animal",
+        "value":600
+    },
+    {
+        "question_id":4,
+        "question":"What are the only two mammals are the only ones known to lay eggs?",
+        "option_A":"The anteater and the duck-billed platypus",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Animal",
+        "value":800
+    },
+    {
+        "question_id":5,
+        "question":"Why are flamingos pink?",
+        "option_A":"Wrong",
+        "option_B":"Because of their diet of algae, shrimps and crustaceans",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Animal",
+        "value":1000
+    },
+    {
+        "question_id":6,
+        "question":"What is the capital of Scotland?",
+        "option_A":"Wrong",
+        "option_B":"Edinburgh",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Geography",
+        "value":200
+    },
+    {
+        "question_id":7,
+        "question":"Which country was NOT part of the Soviet Union?",
+        "option_A":"Romania",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Geography",
+        "value":400
+    },
+    {
+        "question_id":8,
+        "question":"Which small country is located between the borders of France and Spain?",
+        "option_A":"Wrong",
+        "option_B":"Wrong",
+        "option_C":"Andorra",
+        "answer":"C",
+        "category":"Geography",
+        "value":600
+    },
+    {
+        "question_id":9,
+        "question":"In which city, is the Big Nickel located in Canada?",
+        "option_A":"Sudbury, Ontario",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Geography",
+        "value":800
+    },
+    {
+        "question_id":10,
+        "question":"Which of these island countries is located in the Caribbean?",
+        "option_A":"Wrong",
+        "option_B":"Barbados",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Geography",
+        "value":1000
+    },
+    {
+        "question_id":11,
+        "question":"In the movie \"Finding Nemo\", who was Marlin's wife?",
+        "option_A":"Wrong",
+        "option_B":"Coral",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Movie",
+        "value":200
+    },
+    {
+        "question_id":12,
+        "question":"In what year was the original \"Jurassic Park\" film released?",
+        "option_A":"1993",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Movie",
+        "value":400
+    },
+    {
+        "question_id":13,
+        "question":"What substance is Han Solo frozen in during \"The Empire Strikes Back\"?",
+        "option_A":"Wrong",
+        "option_B":"Wrong",
+        "option_C":"Carbonite",
+        "answer":"C",
+        "category":"Movie",
+        "value":600
+    },
+    {
+        "question_id":14,
+        "question":"What famous character is known for saying, \"I'll be back\"?",
+        "option_A":"The Terminator",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Movie",
+        "value":800
+    },
+    {
+        "question_id":15,
+        "question":"What is Batman's city?",
+        "option_A":"Wrong",
+        "option_B":"Gotham City",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Movie",
+        "value":1000
+    },
+    {
+        "question_id":16,
+        "question":"Which musician sang the National Anthem during the 2010 Super Bowl?",
+        "option_A":"Wrong",
+        "option_B":"Christina Aguilera",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Music",
+        "value":200
+    },
+    {
+        "question_id":17,
+        "question":"Which male Hawaiian musician was well known for his cover of 'Somewhere Over the Rainbow?'",
+        "option_A":"Israel Kamakawiwo'ole",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Music",
+        "value":400
+    },
+    {
+        "question_id":18,
+        "question":"Where was the singer Adele born?",
+        "option_A":"Wrong",
+        "option_B":"Wrong",
+        "option_C":"London, England",
+        "answer":"C",
+        "category":"Music",
+        "value":600
+    },
+    {
+        "question_id":19,
+        "question":"Hatsune Miku is a real-life human singer from Japan?",
+        "option_A":"False",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Music",
+        "value":800
+    },
+    {
+        "question_id":20,
+        "question":"Which song made the Korean rapper \"PSY\" a viral sensation in 2012?",
+        "option_A":"Wrong",
+        "option_B":"Gangnam Style",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Music",
+        "value":1000
+    },
+    {
+        "question_id":21,
+        "question":"What is Sporalogy the study of?",
+        "option_A":"Wrong",
+        "option_B":"a parody of astrology",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Science",
+        "value":200
+    },
+    {
+        "question_id":22,
+        "question":"What energy does an Eolic power station generate?",
+        "option_A":"Wind",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Science",
+        "value":400
+    },
+    {
+        "question_id":23,
+        "question":"What is Exobiology the study of?",
+        "option_A":"Wrong",
+        "option_B":"Wrong",
+        "option_C":"life in outer space",
+        "answer":"C",
+        "category":"Science",
+        "value":600
+    },
+    {
+        "question_id":24,
+        "question":"What is the symbol for copper?",
+        "option_A":"Cu",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Science",
+        "value":800
+    },
+    {
+        "question_id":25,
+        "question":"What is Hydrogeology the study of?",
+        "option_A":"Wrong",
+        "option_B":"Underground water",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Science",
+        "value":1000
+    },
+    {
+        "question_id":26,
+        "question":"The Harvard architecture for micro-controllers added which additional bus?",
+        "option_A":"Wrong",
+        "option_B":"Instruction",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Technology",
+        "value":200
+    },
+    {
+        "question_id":27,
+        "question":"Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+        "option_A":"Courage",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Technology",
+        "value":400
+    },
+    {
+        "question_id":28,
+        "question":"When was the Tamagotchi digital pet released?",
+        "option_A":"Wrong",
+        "option_B":"Wrong",
+        "option_C":"1996",
+        "answer":"C",
+        "category":"Technology",
+        "value":600
+    },
+    {
+        "question_id":29,
+        "question":"When was the DVD invented?",
+        "option_A":"1995",
+        "option_B":"Wrong",
+        "option_C":"Wrong",
+        "answer":"A",
+        "category":"Technology",
+        "value":800
+    },
+    {
+        "question_id":30,
+        "question":"When was the iPhone released?",
+        "option_A":"Wrong",
+        "option_B":"2007",
+        "option_C":"Wrong",
+        "answer":"B",
+        "category":"Technology",
+        "value":1000
+    }
+]
